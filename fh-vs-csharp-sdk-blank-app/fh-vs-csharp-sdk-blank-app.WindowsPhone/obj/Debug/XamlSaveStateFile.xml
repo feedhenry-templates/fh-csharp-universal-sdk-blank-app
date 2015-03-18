@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\edewit\documents\visual studio 2013\projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.windowsphone\obj\debug\intermediatexaml\fh-vs-csharp-sdk-blank-app.windowsphone.exe" HashGuid="651c1617-2238-4a84-65ac-8c4611eda484" />
+    <ReferenceAssembly PathName="c:\users\edewit\documents\visual studio 2013\projects\fh-vs-csharp-sdk-blank-app\packages\fh.sdk.1.1.0\lib\wpa81\fhsdk.dll" HashGuid="32afaac6-e204-980f-2ccc-30d20ed260e1" />
+    <ReferenceAssembly PathName="c:\users\edewit\documents\visual studio 2013\projects\fh-vs-csharp-sdk-blank-app\packages\fh.sdk.1.1.0\lib\wpa81\fhsdkphone.dll" HashGuid="766c056a-4aee-cf05-53f4-cd92eb850458" />
+    <ReferenceAssembly PathName="c:\users\edewit\documents\visual studio 2013\projects\fh-vs-csharp-sdk-blank-app\packages\newtonsoft.json.6.0.3\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="c79997c3-e7ec-c6d9-80a0-b6fbe9a32ff1" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
