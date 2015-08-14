@@ -1,1 +1,0 @@
-c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\fh-vs-csharp-sdk-blank-app.Windows.csproj;neutral
