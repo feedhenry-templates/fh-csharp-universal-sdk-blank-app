@@ -54,7 +54,7 @@ namespace FHStarterApp
                     //Initialisation is successful
                 }
             }
-            catch (FHException e)
+            catch (FHException)
             {
                 //Initialisation failed, handle exception
             }
