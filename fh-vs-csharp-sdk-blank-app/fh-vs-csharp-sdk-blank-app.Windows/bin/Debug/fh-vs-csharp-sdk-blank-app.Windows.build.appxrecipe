@@ -1,56 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>ERIKSWINDOWS</Machine>
-    <WindowsUser>edewit</WindowsUser>
+    <Machine>WINDOWS-MAC</Machine>
+    <WindowsUser>ErikJan</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>09cb6c75-00bc-4ed3-9307-6009b12689c8</PackageIdentityName>
-    <IntermediateOutputPath>c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\bin\Debug\fh-vs-csharp-sdk-blank-app.Windows.exe">
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\bin\Debug\fh-vs-csharp-sdk-blank-app.Windows.exe">
       <PackagePath>fh-vs-csharp-sdk-blank-app.Windows.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\packages\FH.SDK.1.1.0\lib\portable-net45+wp80+wp81+win8+wpa81\FHSDK.dll">
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\packages\aerogear-windows-push.0.0.9\lib\portable-win81+wpa81\aerogear-windows-push.dll">
+      <PackagePath>aerogear-windows-push.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\packages\FH.SDK.1.3.4-beta1\lib\portable-win81+wpa81\FHSDK.dll">
       <PackagePath>FHSDK.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\packages\Newtonsoft.Json.6.0.3\lib\netcore45\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\packages\FH.SDK.1.3.4-beta1\lib\portable-win81+wpa81\FHSDKPortable.dll">
+      <PackagePath>FHSDKPortable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\packages\aerogear-windows-push.0.0.9\lib\portable-win81+wpa81\lib.dll">
+      <PackagePath>lib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\packages\Unity.4.0.1\lib\win8\Microsoft.Practices.Unity.dll">
+      <PackagePath>Microsoft.Practices.Unity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\packages\Unity.4.0.1\lib\win8\Microsoft.Practices.Unity.RegistrationByConvention.dll">
+      <PackagePath>Microsoft.Practices.Unity.RegistrationByConvention.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\packages\Newtonsoft.Json.6.0.3\lib\netcore45\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\bin\Debug\fh-vs-csharp-sdk-blank-app.Windows.xr.xml">
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\bin\Debug\fh-vs-csharp-sdk-blank-app.Windows.xr.xml">
       <PackagePath>fh-vs-csharp-sdk-blank-app.Windows.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\edewit\documents\visual studio 2013\Projects\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\ErikJan\Documents\Visual Studio 2013\Projects\fh-csharp-universal-sdk-blank-app\fh-vs-csharp-sdk-blank-app\fh-vs-csharp-sdk-blank-app.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
